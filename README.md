@@ -37,9 +37,7 @@ Ciri-ciri Multiprosesor Symmetric (SMP):
 ![file draw2 io drawio](https://github.com/user-attachments/assets/accabf10-917f-42d5-b7b6-cf4134ade29a)
 
 
-**Struktur File**
 
-file.drawio(nama file io kita) — File diagram utama dalam format .drawio (XML).
 
 
 
