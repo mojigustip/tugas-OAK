@@ -11,7 +11,8 @@
 
 **Gambar diagram**
 
-![file draw io drawio](https://github.com/user-attachments/assets/885c62e1-d263-41f0-b2f5-0c01c4a16923)
+![file 1 draw io drawio](https://github.com/user-attachments/assets/14725bfb-59fb-4b4f-acb7-2722b696ac2b)
+
 
 **Struktur File**
 
