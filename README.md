@@ -33,7 +33,7 @@ Ciri-ciri Multiprosesor Symmetric (SMP):
 
 **Gambar diagram**
 
-![file 1 draw io drawio](https://github.com/user-attachments/assets/14725bfb-59fb-4b4f-acb7-2722b696ac2b)
+![file draw2 io drawio](https://github.com/user-attachments/assets/accabf10-917f-42d5-b7b6-cf4134ade29a)
 
 
 **Struktur File**
