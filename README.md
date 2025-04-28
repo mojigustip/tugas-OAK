@@ -16,6 +16,7 @@ Multiple Prosesor itu artinya ada lebih dari satu prosesor dalam satu komputer. 
 Multiprosesor Symmetric (SMP) adalah salah satu jenis multiple prosesor. Bedanya, di sini semua prosesor setara artinya, tidak ada prosesor bos dan anak buah. Semua prosesor bisa mengakses memori, perangkat keras, dan tugas secara bebas, tanpa harus izin ke prosesor lain.
 
 **Ciri Ciri Multiple Prosesor dan Multiprosesor Symmetric**
+
 Ciri-ciri Multiple Prosesor:
 1. Ada lebih dari satu prosesor dalam satu komputer.
 2. Prosesor-prosesornya bisa beda tugas atau bahkan beda jenis (tergantung desainnya).
