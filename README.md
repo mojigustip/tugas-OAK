@@ -9,6 +9,28 @@
 3. Upload file Multiprocessor Architecture.drawio.
 4. Diagram siap untuk diedit atau dilihat!
 
+**Perbedaan Multiple Prosesor dan Multiprosesor Symmetric**
+
+Multiple Prosesor itu artinya ada lebih dari satu prosesor dalam satu komputer. Tapi bentuk dan cara kerjanya bisa macam-macam, tergantung desainnya. Yang penting, intinya ada banyak prosesor bekerja bersama.
+
+Multiprosesor Symmetric (SMP) adalah salah satu jenis multiple prosesor. Bedanya, di sini semua prosesor setara — artinya, tidak ada prosesor "bos" dan "anak buah". Semua prosesor bisa mengakses memori, perangkat keras, dan tugas secara bebas, tanpa harus izin ke prosesor lain.
+
+**Ciri Ciri Multiple Prosesor dan Multiprosesor Symmetric**
+Ciri-ciri Multiple Prosesor:
+1. Ada lebih dari satu prosesor dalam satu komputer.
+2. Prosesor-prosesornya bisa beda tugas atau bahkan beda jenis (tergantung desainnya).
+3. Kadang ada prosesor utama (yang ngatur) dan prosesor lain yang cuma bantu.
+4. Setiap prosesor bisa saja punya memori sendiri-sendiri atau akses memori yang beda.
+5. Cara kerjanya tidak selalu rata; ada yang atur-aturan antar prosesor.
+
+Ciri-ciri Multiprosesor Symmetric (SMP):
+1. Ada lebih dari satu prosesor, semuanya setara (gak ada bos, gak ada bawahan).
+2. Semua prosesor bebas akses ke memori yang sama.
+3. Kalau ada tugas, semua prosesor bisa ngerjain — siapa cepat dia dapat.
+4. Kinerjanya lebih seimbang, karena semua prosesor bisa berbagi beban kerja.
+5. Biasanya digunakan di server modern atau komputer performa tinggi.
+
+
 **Gambar diagram**
 
 ![file 1 draw io drawio](https://github.com/user-attachments/assets/14725bfb-59fb-4b4f-acb7-2722b696ac2b)
