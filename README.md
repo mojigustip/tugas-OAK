@@ -9,3 +9,4 @@
 4. Diagram siap untuk diedit atau dilihat!
 
 **Gambar diagram**
+https://github.com/mojigustip/tugas-OAK/blob/main/file%20draw.io.drawio.png
